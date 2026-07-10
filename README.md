@@ -285,5 +285,3 @@ MIRA is open source. PRs are welcome for:
 Please read the architecture notes in the codebase before contributing. The Core/Shell pattern is intentional — platform implementations belong in `lib/shell/`, business logic belongs in `lib/core/`.
 
 ---
-
-*Built by Sarthak.*
